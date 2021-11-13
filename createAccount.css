@@ -1,0 +1,46 @@
+
+body {
+  background-image: url(https://thumbs.gfycat.com/HairyQueasyAcouchi-max-1mb.gif);
+}
+
+#inputBirthMonth{
+    width:33%;
+    padding: 16px 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: white;
+}
+#inputBirthDay{
+    width:33%;
+    padding: 16px 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: white;
+}
+#inputBirthYear{
+    width:33%;
+    padding: 16px 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: white;
+}
+
+label.required {
+    color: red;
+}
+
+#site-header-name {
+    font-size: 25px;
+    letter-spacing: 6px;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background-color: rgba(136, 35, 151, 0.54);
+}
