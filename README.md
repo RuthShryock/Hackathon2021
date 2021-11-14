@@ -1,6 +1,6 @@
 # LUNAR PLAN
 
-Website: http://35.229.23.159/
+Website: http://lunarplan.us/
 
 The idea behind LunarPlans was to have a web app that will give each user their own calendar. This calendar would give information about the moon, stars, meteors, and most importantly environmental facts regarding space in order to help raise awareness. 
 
