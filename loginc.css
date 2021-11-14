@@ -23,7 +23,23 @@ body {
   display: flex; /* or inline-flex */
 }
 
-.container {   display: flex;   justify-content: center; }
+svg {   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  color: #ccc; /*what color do we want here?*/
 
-  
+}
+
+button-solid {
+  padding: 5px 10px;
+  background-color: rgb(0, 0, 0);
+  color: rgba(136, 35, 151, 0.54);
+  position:absolute;
+  top: 10px;
+  right:0;
+}
+.button-solid:focus {
+  border: none;
+  outline: none;
+}
   
