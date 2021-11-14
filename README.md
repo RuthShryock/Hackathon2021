@@ -11,4 +11,12 @@ The idea behind LunarPlans was to have a web app that will give each user their 
 
 # Expectations
 
-Given that our team is full of beginners, we aimed to setup a server using Google Cloud and creating a UI for both the registration and login pages. We were able to create the server as a LAMP stack server and we created the registration/login pages, but we also ran into a few issues. One issue being that our Google Cloud server was not allowing us to edit and upload files into the server.
+Given that our team is full of beginners, we aimed to setup a server using Google Cloud and creating a UI for both the registration and login pages. We were able to create the server as a LAMP stack server and we created the registration/login pages, but we also ran into a few issues. One issue being that our Google Cloud server was not allowing us to edit and upload files into the server. There were also issues with our html code regarding the use of margins, however we were able to solve the problem regarding our margins and work around the Google Cloud issues.
+
+# What We Learned
+
+  - New javascript/html/css skills.
+  - Tools such as Figma/LoFi/HiFi.
+  - How to create and configure a server.
+  - Learned about PHP for backend.
+  - Learned about Domains.
