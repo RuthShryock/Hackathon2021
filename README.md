@@ -23,3 +23,4 @@ Given that our team is full of beginners, we aimed to setup a server using Googl
 
 # ERD
 
+![alt text](https://github.com/RuthShryock/Hackathon2021/blob/main/ERD.png)
