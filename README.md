@@ -1,4 +1,4 @@
-# LUNARPLANS
+# LUNARPLAN
 
 Website: http://35.229.23.159/
 
