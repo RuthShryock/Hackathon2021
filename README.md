@@ -2,7 +2,7 @@
 
 Website: http://35.229.23.159/
 
-The idea behind LunarPlans was to have a web app that will give each user their own calendar. This calendar would give informaiton about the moon, stars, meteors, and most importantly environmental regarding space in order to help raise awareness. 
+The idea behind LunarPlans was to have a web app that will give each user their own calendar. This calendar would give information about the moon, stars, meteors, and most importantly environmental regarding space in order to help raise awareness. 
 
 # Important Features
 
