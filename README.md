@@ -20,3 +20,6 @@ Given that our team is full of beginners, we aimed to setup a server using Googl
   - How to create and configure a server.
   - Learned about PHP for backend.
   - Learned about Domains.
+
+# ERD
+
